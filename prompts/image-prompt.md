@@ -1,0 +1,5 @@
+# Промпт сгенерированного изображения
+
+Создано встроенным инструментом генерации изображений. Новая генерация без частных фото или внешних референсов. Проверено визуально: три сцены и читаемая маркировка FICTIONAL CONCEPT. География и архитектура вымышлены.
+
+Use case: ads-marketing. Create one cinematic architectural moodboard triptych, three equal vertical panels in a wide landscape image, for a fictional coastal hotel promotional concept inspired by the Black Sea. Panel 1: aerial approach from blue sea toward contemporary hotel towers on a seaside boulevard. Panel 2: tranquil landscaped green park with paths, trees and lake near a coastal skyline. Panel 3: distant passenger aircraft approaching a coastal airport, realistic aircraft proportions, safe distance from architecture. Sunny summer daylight, premium photorealistic travel advertising, coherent palette, no identifiable people, no logos. This is fictional concept artwork, not a representation of any actual hotel, address, flight route or geographic layout. Include the exact legible title 'FICTIONAL CONCEPT' in a modest clean label along the bottom. No other text.
